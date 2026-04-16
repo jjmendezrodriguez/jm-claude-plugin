@@ -18,7 +18,7 @@ Custom Claude Code plugin with cherry-picked skills and agents.
 /plugin marketplace add https://github.com/jjmendezrodriguez/jm-claude-plugin
 
 # Install
-/install-plugin jm-toolkit@jm-claude-plugin
+/install-plugin jm-claude-plugin@jm-claude-plugin
 ```
 
 ## Dependencies
