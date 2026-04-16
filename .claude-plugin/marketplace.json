@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jm-claude-plugin",
+  "description": "Custom Claude Code toolkit: security scan, e2e testing, python review",
+  "owner": {
+    "name": "Jose Mendez",
+    "url": "https://github.com/jjmendezrodriguez"
+  },
+  "plugins": [
+    {
+      "name": "jm-toolkit",
+      "description": "Security scanning, E2E testing patterns, and Python code review",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
