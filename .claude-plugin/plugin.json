@@ -8,9 +8,5 @@
   },
   "repository": "https://github.com/jjmendezrodriguez/jm-claude-plugin",
   "skills": "./skills/",
-  "agents": "./agents/",
-  "license": "MIT",
-  "dependencies": [
-    "node"
-  ]
+  "license": "MIT"
 }
