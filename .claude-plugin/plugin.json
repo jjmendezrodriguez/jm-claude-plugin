@@ -1,5 +1,5 @@
 {
-  "name": "jm-toolkit",
+  "name": "jm-claude-plugin",
   "description": "Custom Claude Code toolkit: security scanning, E2E testing patterns, and Python code review",
   "version": "1.0.0",
   "author": {

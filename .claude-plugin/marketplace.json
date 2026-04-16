@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "jm-toolkit",
+      "name": "jm-claude-plugin",
       "description": "Security scanning, E2E testing patterns, and Python code review",
       "source": "./",
       "category": "productivity"
